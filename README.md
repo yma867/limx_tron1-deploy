@@ -133,5 +133,5 @@
   ./pointfoot-mujoco-sim/robot-joystick/robot-joystick
   ```
 
-## 4. 效果展示
-![](doc/simulator.gif)
+## 4. 详细文件
+- https://cwjgfm21di.feishu.cn/wiki/Rj6mwC4ewiDup7kzZKFcT8fGnIb
